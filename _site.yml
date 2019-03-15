@@ -1,0 +1,14 @@
+name: "Curso R"
+navbar:
+  title: "Curso R"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Aula 1"
+      href: Aula1.html
+    - text: "Aula 3"
+      href: Aula3.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
