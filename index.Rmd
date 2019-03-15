@@ -1,5 +1,0 @@
----
-title: "Curso R"
----
-
-Curso R
