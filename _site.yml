@@ -1,0 +1,10 @@
+name: "Curso R "
+navbar:
+  title: "Curso R"
+left:
+  - text: "Home"
+href: index.html
+- text: "Aula1"
+href: Aula1.html
+- text: "Aula3"
+href: Aula3.html
